@@ -2,124 +2,94 @@
 glyphname = hyphen_hyphen_hyphen.liga;
 layers = (
 {
-layerId = m019;
+layerId = m01;
 shapes = (
 {
-pos = (-637,0);
 ref = hyphen;
-scale = (1.08,1);
 },
 {
-pos = (-32,0);
 ref = hyphen;
-scale = (1.08,1);
 },
 {
-pos = (-1242,0);
 ref = hyphen;
-scale = (1.08,1);
+}
+);
+width = 846;
+},
+{
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+ref = hyphen;
+},
+{
+ref = hyphen;
+},
+{
+ref = hyphen;
 }
 );
 width = 618;
 },
 {
-layerId = m020;
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
-pos = (-624,0);
 ref = hyphen;
-scale = (1.05,1);
 },
 {
-pos = (-26,0);
 ref = hyphen;
-scale = (1.05,1);
 },
 {
-pos = (-1222,0);
 ref = hyphen;
-scale = (1.05,1);
 }
 );
-width = 618;
+width = 846;
 },
 {
-layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
 shapes = (
 {
-pos = (-379,0);
 ref = hyphen;
 },
 {
-pos = (-15,0);
 ref = hyphen;
 },
 {
-pos = (-743,0);
 ref = hyphen;
 }
 );
 width = 390;
 },
 {
-layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
 shapes = (
 {
-pos = (-382,0);
 ref = hyphen;
 },
 {
-pos = (-8,0);
 ref = hyphen;
 },
 {
-pos = (-756,0);
 ref = hyphen;
 }
 );
 width = 390;
 },
 {
-layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
-pos = (-847,0);
 ref = hyphen;
-scale = (1.06,1);
 },
 {
-pos = (-40,0);
 ref = hyphen;
-scale = (1.06,1);
 },
 {
-pos = (-1645,0);
 ref = hyphen;
-scale = (1.06,1);
 }
 );
-width = 846;
-},
-{
-layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
-shapes = (
-{
-pos = (-851,0);
-ref = hyphen;
-scale = (1.1,1);
-},
-{
-pos = (-82,0);
-ref = hyphen;
-scale = (1.1,1);
-},
-{
-pos = (-1620,0);
-ref = hyphen;
-scale = (1.1,1);
-}
-);
-width = 846;
+width = 618;
 }
 );
 }
