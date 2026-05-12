@@ -2,46 +2,174 @@
 glyphname = checkmark;
 layers = (
 {
-layerId = m019;
+hints = (
+{
+horizontal = 1;
+place = (137,450);
+type = Stem;
+},
+{
+place = (77,692);
+type = Stem;
+}
+);
+layerId = m01;
 shapes = (
 {
 closed = 1;
 nodes = (
+(263,137,l),
+(769,560,l),
+(746,587,l),
+(267,187,l),
+(103,412,l),
+(77,389,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (137,445);
+type = Stem;
+},
+{
+place = (0,618);
+type = Stem;
+}
+);
+layerId = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+shapes = (
+{
+closed = 1;
+nodes = (
+(169,137,l),
 (618,557,l),
 (593,582,l),
 (170,187,l),
 (24,372,l),
-(0,347,l),
-(169,137,l)
+(0,347,l)
 );
 }
 );
 width = 618;
 },
 {
-layerId = m020;
+hints = (
+{
+horizontal = 1;
+place = (67,591);
+type = Stem;
+},
+{
+place = (53,741);
+type = Stem;
+}
+);
+layerId = "BE332802-5D20-4A9D-9B21-C2F1FB0123EF";
 shapes = (
 {
 closed = 1;
 nodes = (
+(298,67,l),
+(794,533,l),
+(688,658,l),
+(311,299,l),
+(170,463,l),
+(53,356,l)
+);
+}
+);
+width = 846;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (137,450);
+type = Stem;
+},
+{
+place = (-89,670);
+type = Stem;
+}
+);
+layerId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
+shapes = (
+{
+closed = 1;
+nodes = (
+(92,137,l),
+(581,560,l),
+(558,587,l),
+(95,187,l),
+(-63,412,l),
+(-89,389,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (67,591);
+type = Stem;
+},
+{
+place = (-161,725);
+type = Stem;
+}
+);
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+closed = 1;
+nodes = (
+(79,67,l),
+(564,533,l),
+(458,658,l),
+(92,299,l),
+(-44,463,l),
+(-161,356,l)
+);
+}
+);
+width = 390;
+},
+{
+hints = (
+{
+horizontal = 1;
+place = (67,555);
+type = Stem;
+},
+{
+place = (0,619);
+type = Stem;
+}
+);
+layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,67,l),
 (619,495,l),
 (497,622,l),
 (214,317,l),
 (119,422,l),
-(0,299,l),
-(214,67,l)
+(0,299,l)
 );
 }
 );
 width = 618;
 }
 );
+note = checkmark;
 unicode = 10003;
-userData = {
-KernOnSpecialSpacing = {
-L = NoKerning;
-R = NoKerning;
-};
-com.schriftgestaltung.Glyphs.lastChange = "2017-05-03 17:15:08 +0000";
-};
 }
