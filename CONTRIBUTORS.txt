@@ -8,7 +8,7 @@
 # Name <email address>
 
 Deni Anggara <studio@degarism.com>
-Tobias Ahlin <hello@tobiasahlin.com>
 Kyle Benson <kylewaynebenson@gmail.com>
-Sebastian Carewe <sebastian.carewe@googlemail.com>
 Rosalie Wagner <mail@rosaliewagner.com>
+Sebastian Carewe <sebastian.carewe@googlemail.com>
+Tobias Ahlin <hello@tobiasahlin.com>
