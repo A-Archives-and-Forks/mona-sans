@@ -60,7 +60,7 @@ pos = (0,185);
 ref = questiondown.ss01;
 }
 );
-width = 618;
+width = 846;
 }
 );
 note = questiondown.ss01.case;

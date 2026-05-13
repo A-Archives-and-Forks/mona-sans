@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (642,729);
+pos = (625,729);
 }
 );
 hints = (
@@ -99,7 +99,7 @@ width = 618;
 anchors = (
 {
 name = top;
-pos = (502,734);
+pos = (602,734);
 }
 );
 hints = (
@@ -146,7 +146,7 @@ width = 846;
 anchors = (
 {
 name = top;
-pos = (181,729);
+pos = (281,729);
 }
 );
 hints = (
@@ -193,7 +193,7 @@ width = 390;
 anchors = (
 {
 name = top;
-pos = (204,729);
+pos = (214,729);
 }
 );
 hints = (

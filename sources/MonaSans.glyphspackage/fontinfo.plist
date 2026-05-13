@@ -6513,6 +6513,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -6592,6 +6596,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -6675,6 +6683,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -6755,6 +6767,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -6838,6 +6854,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -6919,6 +6939,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7003,6 +7027,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7085,6 +7113,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7164,6 +7196,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7246,6 +7282,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7333,6 +7373,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7417,6 +7461,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7504,6 +7552,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7589,6 +7641,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -7677,6 +7733,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7763,6 +7823,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7845,6 +7909,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -7923,6 +7991,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8005,6 +8077,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8084,6 +8160,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8166,6 +8246,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8246,6 +8330,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8329,6 +8417,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8410,6 +8502,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8488,6 +8584,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8570,6 +8670,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8657,6 +8761,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8741,6 +8849,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -8828,6 +8940,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -8913,6 +9029,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9001,6 +9121,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9087,6 +9211,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9169,6 +9297,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9248,6 +9380,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9331,6 +9467,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExRg";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9411,6 +9551,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExMd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9494,6 +9638,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9575,6 +9723,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9659,6 +9811,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9741,6 +9897,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9821,6 +9981,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -9896,6 +10060,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -9974,6 +10142,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10056,6 +10228,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10134,6 +10310,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10211,6 +10391,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10291,6 +10475,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10369,6 +10557,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10444,6 +10636,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10522,6 +10718,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10604,6 +10804,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10690,6 +10894,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10772,6 +10980,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -10853,6 +11065,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -10937,6 +11153,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11019,6 +11239,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11097,6 +11321,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11162,6 +11390,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-Lt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11230,6 +11462,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-Rg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11302,6 +11538,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-Md";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11370,6 +11610,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11437,6 +11681,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-Bd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11507,6 +11755,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11575,6 +11827,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-Blk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11640,6 +11896,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExXLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11718,6 +11978,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11800,6 +12064,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -11886,6 +12154,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -11968,6 +12240,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12049,6 +12325,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12133,6 +12413,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12215,6 +12499,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12293,6 +12581,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXLt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12368,6 +12660,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExLt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12446,6 +12742,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExRg";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12528,6 +12828,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExMd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12606,6 +12910,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExSmBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12683,6 +12991,10 @@ axesValues = (
 0
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExBd";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12763,6 +13075,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXBd";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12841,6 +13157,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExBlk";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -12916,6 +13236,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -12994,6 +13318,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13075,6 +13403,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13152,6 +13484,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13233,6 +13569,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13312,6 +13652,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-CnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13393,6 +13737,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13473,6 +13821,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-CnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13551,6 +13903,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13628,6 +13984,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13711,6 +14071,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13792,6 +14156,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -13875,6 +14243,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -13956,6 +14328,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmCnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14041,6 +14417,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14123,6 +14503,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmCnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14201,6 +14585,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14268,6 +14656,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-LtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14339,6 +14731,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-It";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14406,6 +14802,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-MdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14477,6 +14877,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14546,6 +14950,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-BdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14618,6 +15026,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-XBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14688,6 +15100,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-BlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14755,6 +15171,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14833,6 +15253,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -14916,6 +15340,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -14996,6 +15424,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15079,6 +15511,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15160,6 +15596,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-SmExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15245,6 +15685,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15327,6 +15771,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-SmExBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15405,6 +15853,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15482,6 +15934,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15563,6 +16019,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15640,6 +16100,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15721,6 +16185,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15800,6 +16268,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-ExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -15881,6 +16353,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -15961,6 +16437,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-ExBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16038,6 +16518,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16120,6 +16604,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16205,6 +16693,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16286,6 +16778,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16371,6 +16867,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16454,6 +16954,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsCnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16540,6 +17044,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16624,6 +17132,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsCnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16705,6 +17217,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16789,6 +17305,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -16878,6 +17398,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -16963,6 +17487,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17052,6 +17580,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17139,6 +17671,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17229,6 +17765,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17317,6 +17857,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmCnBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17401,6 +17945,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17481,6 +18029,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17565,6 +18117,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17645,6 +18201,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17729,6 +18289,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17811,6 +18375,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -17896,6 +18464,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -17979,6 +18551,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18059,6 +18635,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExXLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18143,6 +18723,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18232,6 +18816,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18317,6 +18905,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18406,6 +18998,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18493,6 +19089,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsSmExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18583,6 +19183,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18671,6 +19275,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsSmExBlkIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18755,6 +19363,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXLtIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -18836,6 +19448,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExLtIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -18921,6 +19537,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19002,6 +19622,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExMdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -19087,6 +19711,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExSmBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19170,6 +19798,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExBdIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -19256,6 +19888,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSans-DsExXBdIt";
+},
+{
 name = "Instance Preview";
 value = (
 M,
@@ -19339,6 +19975,10 @@ axesValues = (
 1
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSans-DsExBlkIt";
+},
 {
 name = "Instance Preview";
 value = (
@@ -376102,5 +376742,5 @@ value = 1.3;
 };
 };
 versionMajor = 2;
-versionMinor = 23;
+versionMinor = 24;
 }

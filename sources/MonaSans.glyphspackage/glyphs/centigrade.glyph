@@ -135,11 +135,11 @@ alignment = 1;
 ref = degree;
 },
 {
-pos = (346,0);
+pos = (464,0);
 ref = C;
 }
 );
-width = 474;
+width = 1223;
 },
 {
 layerId = "C17B1F32-8075-45B4-AA59-7DAFF0D7E404";
