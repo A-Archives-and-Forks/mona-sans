@@ -14,7 +14,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 IJ.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Gdotaccent.ss01.ss07";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Gdotaccent.ss01.ss07";
 name = Uppercase;
 }
 );
@@ -42,7 +42,7 @@ value = 0;
 },
 {
 name = "Variable Font Origin";
-value = master01;
+value = "0B69FD92-C08A-4234-9918-6776008DFD7A";
 },
 {
 disabled = 1;
@@ -92,8 +92,8 @@ feature ss04;
 feature ss05;
 feature ss06;
 feature ss07;
-feature ss09;
 feature ss10;
+feature calt;
 ";
 tag = aalt;
 },
@@ -150,7 +150,7 @@ automatic = 1;
 code = "script latn;
 language AZE;
 lookup locl_latn_0 {
-	sub i by idotaccent;
+	sub i by i.loclTRK;
 } locl_latn_0;
 language CRT;
 lookup locl_latn_0;
@@ -346,7 +346,7 @@ sub edotbelow by edotbelow.ss01;
 sub gdotaccent by gdotaccent.ss01;
 sub i by i.ss01;
 sub idieresis by idieresis.ss01;
-sub idotaccent by idotaccent.ss01;
+sub i.loclTRK by i.loclTRK.ss01;
 sub idotbelow by idotbelow.ss01;
 sub j by j.ss01;
 sub ldot by ldot.ss01;
@@ -398,7 +398,6 @@ tag = ss01;
 {
 automatic = 1;
 code = "sub I by I.ss02;
-sub IJ by IJ.ss02;
 sub Iacute by Iacute.ss02;
 sub Ibreve by Ibreve.ss02;
 sub Icircumflex by Icircumflex.ss02;
@@ -526,18 +525,6 @@ tag = ss07;
 },
 {
 automatic = 1;
-code = "sub one by one.ss09;
-";
-labels = (
-{
-language = dflt;
-value = "One no serif";
-}
-);
-tag = ss09;
-},
-{
-automatic = 1;
 code = "sub zero by zero.ss10;
 ";
 labels = (
@@ -659,14 +646,19 @@ tag = calt;
 {
 automatic = 1;
 code = "lookupflag IgnoreMarks;
+sub equal equal equal by equal_equal_equal.liga;
+sub hyphen hyphen hyphen by hyphen_hyphen_hyphen.liga;
 sub ampersand ampersand by ampersand_ampersand.liga;
 sub bar bar by bar_bar.liga;
+sub colon colon by colon_colon.liga;
 sub equal equal by equal_equal.liga;
 sub equal greater by equal_greater.liga;
 sub exclam equal by exclam_equal.liga;
 sub greater equal by greater_equal.liga;
 sub hyphen greater by hyphen_greater.liga;
+sub hyphen hyphen by hyphen_hyphen.liga;
 sub less equal by less_equal.liga;
+sub numbersign numbersign by numbersign_numbersign.liga;
 sub plus plus by plus_plus.liga;
 ";
 disabled = 1;
@@ -767,10 +759,10 @@ pos = -167;
 );
 name = "Condensed ExtraLight";
 stemValues = (
+31,
 27,
-30,
 29,
-0
+29
 );
 userData = {
 GSOffsetHorizontal = -14;
@@ -872,10 +864,10 @@ pos = -167;
 );
 name = "Condensed Black";
 stemValues = (
-137,
 156,
-177,
-0
+137,
+145,
+156
 );
 userData = {
 GSOffsetHorizontal = 15;
@@ -975,8 +967,8 @@ pos = -167;
 );
 name = ExtraLight;
 stemValues = (
+37,
 35,
-36,
 36,
 38
 );
@@ -1074,8 +1066,8 @@ pos = -167;
 );
 name = Black;
 stemValues = (
-153,
 172,
+153,
 191,
 193
 );
@@ -1174,7 +1166,7 @@ pos = -167;
 name = "Expanded ExtraLight";
 stemValues = (
 35,
-36,
+35,
 37,
 38
 );
@@ -1273,9 +1265,9 @@ pos = -167;
 name = "Expanded Black";
 stemValues = (
 166,
-178,
+166,
 220,
-221
+218
 );
 }
 );
@@ -1311,6 +1303,10 @@ axesValues = (
 200
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-CnXLt";
+},
 {
 name = "Axis Location";
 value = (
@@ -1358,6 +1354,10 @@ axesValues = (
 329
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-CnLt";
+},
 {
 name = "Axis Location";
 value = (
@@ -1407,6 +1407,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-CnRg";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1453,6 +1457,10 @@ axesValues = (
 534
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-CnMd";
+},
 {
 name = "Axis Location";
 value = (
@@ -1502,6 +1510,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-CnSmBd";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1549,6 +1561,10 @@ axesValues = (
 665
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-CnBd";
+},
 {
 name = "Axis Location";
 value = (
@@ -1599,6 +1615,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-CnXBd";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1647,6 +1667,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-CnBlk";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1694,6 +1718,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-XLt";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1739,6 +1767,10 @@ axesValues = (
 329
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-Lt";
+},
 {
 name = "Axis Location";
 value = (
@@ -1787,6 +1819,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-Rg";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1832,6 +1868,10 @@ axesValues = (
 534
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-Md";
+},
 {
 name = "Axis Location";
 value = (
@@ -1880,6 +1920,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-SmBd";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -1926,6 +1970,10 @@ axesValues = (
 665
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-Bd";
+},
 {
 name = "Axis Location";
 value = (
@@ -1975,6 +2023,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-XBd";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -2022,6 +2074,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-Blk";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -2067,6 +2123,10 @@ axesValues = (
 200
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-ExXLt";
+},
 {
 name = "Axis Location";
 value = (
@@ -2114,6 +2174,10 @@ axesValues = (
 329
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-ExLt";
+},
 {
 name = "Axis Location";
 value = (
@@ -2163,6 +2227,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-ExRg";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -2209,6 +2277,10 @@ axesValues = (
 534
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-ExMd";
+},
 {
 name = "Axis Location";
 value = (
@@ -2258,6 +2330,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-ExSmBd";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -2305,6 +2381,10 @@ axesValues = (
 665
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-ExBd";
+},
 {
 name = "Axis Location";
 value = (
@@ -2355,6 +2435,10 @@ axesValues = (
 );
 customParameters = (
 {
+name = postScriptFontName;
+value = "MonaSansMono-ExXBd";
+},
+{
 name = "Axis Location";
 value = (
 {
@@ -2402,6 +2486,10 @@ axesValues = (
 900
 );
 customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-ExBlk";
+},
 {
 name = "Axis Location";
 value = (
@@ -2537,11 +2625,46 @@ name = o;
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = {
+HH = "36";
+HV = "37";
+nV = "36";
+nd = "34";
+oH = "35";
+oV = "38";
+};
 "ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = {
+HH = "30";
+HV = "31";
 nV = "29";
+oH = "27";
+oV = "29";
+};
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = {
+oH = "166";
+oV = "218";
+};
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = {
+HH = "156";
+HV = "154";
+OH = "156";
+OV = "152";
+nV = "145";
+oH = "137";
+oV = "156";
+};
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = {
+HH = "172";
+HV = "204";
+nV = "191";
+oH = "153";
+oV = "193";
+};
+m01 = {
+oH = "35";
 };
 };
 };
 versionMajor = 0;
-versionMinor = 54;
+versionMinor = 55;
 }

@@ -35,7 +35,7 @@ shapes = (
 ref = .notdef;
 }
 );
-width = 618;
+width = 390;
 },
 {
 layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
@@ -53,7 +53,7 @@ shapes = (
 ref = .notdef;
 }
 );
-width = 618;
+width = 846;
 }
 );
 note = apple;
