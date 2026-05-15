@@ -94,6 +94,7 @@ feature ss06;
 feature ss07;
 feature ss10;
 feature calt;
+feature ss11;
 ";
 tag = aalt;
 },
@@ -310,6 +311,27 @@ tag = case;
 },
 {
 automatic = 1;
+code = "lookupflag IgnoreMarks;
+sub equal equal equal by equal_equal_equal.liga;
+sub hyphen hyphen hyphen by hyphen_hyphen_hyphen.liga;
+sub ampersand ampersand by ampersand_ampersand.liga;
+sub bar bar by bar_bar.liga;
+sub colon colon by colon_colon.liga;
+sub equal equal by equal_equal.liga;
+sub equal greater by equal_greater.liga;
+sub exclam equal by exclam_equal.liga;
+sub greater equal by greater_equal.liga;
+sub hyphen greater by hyphen_greater.liga;
+sub hyphen hyphen by hyphen_hyphen.liga;
+sub less equal by less_equal.liga;
+sub numbersign numbersign by numbersign_numbersign.liga;
+sub plus plus by plus_plus.liga;
+";
+disabled = 1;
+tag = liga;
+},
+{
+automatic = 1;
 code = "sub Abrevedotbelow by Abrevedotbelow.ss01;
 sub Acircumflexdotbelow by Acircumflexdotbelow.ss01;
 sub Adieresis by Adieresis.ss01;
@@ -413,7 +435,7 @@ sub Itilde by Itilde.ss02;
 labels = (
 {
 language = dflt;
-value = "Wider uppercase I";
+value = "Uppercase I no serifs";
 }
 );
 tag = ss02;
@@ -645,24 +667,42 @@ tag = calt;
 },
 {
 automatic = 1;
-code = "lookupflag IgnoreMarks;
-sub equal equal equal by equal_equal_equal.liga;
-sub hyphen hyphen hyphen by hyphen_hyphen_hyphen.liga;
-sub ampersand ampersand by ampersand_ampersand.liga;
-sub bar bar by bar_bar.liga;
-sub colon colon by colon_colon.liga;
-sub equal equal by equal_equal.liga;
-sub equal greater by equal_greater.liga;
-sub exclam equal by exclam_equal.liga;
-sub greater equal by greater_equal.liga;
-sub hyphen greater by hyphen_greater.liga;
-sub hyphen hyphen by hyphen_hyphen.liga;
-sub less equal by less_equal.liga;
-sub numbersign numbersign by numbersign_numbersign.liga;
-sub plus plus by plus_plus.liga;
+code = "sub i by i.ss11;
+sub idotless by idotless.ss11;
+sub iacute by iacute.ss11;
+sub ibreve by ibreve.ss11;
+sub icircumflex by icircumflex.ss11;
+sub idieresis by idieresis.ss11;
+sub igrave by igrave.ss11;
+sub ihookabove by ihookabove.ss11;
+sub imacron by imacron.ss11;
+sub iogonek by iogonek.ss11;
+sub itilde by itilde.ss11;
+sub j by j.ss11;
+sub jdotless by jdotless.ss11;
+sub jacute by jacute.ss11;
+sub jcircumflex by jcircumflex.ss11;
+sub l by l.ss11;
+sub lacute by lacute.ss11;
+sub lcaron by lcaron.ss11;
+sub lcommaaccent by lcommaaccent.ss11;
+sub ldot by ldot.ss11;
+sub lslash by lslash.ss11;
+sub r by r.ss11;
+sub racute by racute.ss11;
+sub rcaron by rcaron.ss11;
+sub rcommaaccent by rcommaaccent.ss11;
+sub idotbelow.dotless by idotbelow.dotless.ss11;
+sub iogonek.dotless by iogonek.dotless.ss11;
+sub one by one.ss11;
 ";
-disabled = 1;
-tag = liga;
+labels = (
+{
+language = dflt;
+value = "No serifs";
+}
+);
+tag = ss11;
 }
 );
 fontMaster = (
@@ -1713,6 +1753,433 @@ widthClass = 3;
 },
 {
 axesValues = (
+87.5,
+200
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnXLt";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "200";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.5;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.5;
+};
+name = ExtraLight;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed ExtraLight";
+}
+);
+}
+);
+weightClass = 200;
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+329
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnLt";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "300";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.40786;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.40786;
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.09214;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.09214;
+};
+name = Light;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed Light";
+}
+);
+}
+);
+weightClass = 300;
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+438
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnRg";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "400";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.33;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.33;
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.17;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.17;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = SemiCondensed;
+}
+);
+}
+);
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+534
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnMd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "500";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.26143;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.26143;
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.23857;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.23857;
+};
+name = Medium;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed Medium";
+}
+);
+}
+);
+weightClass = 500;
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+600
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnSmBd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "600";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.21429;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.21429;
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.28571;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.28571;
+};
+name = SemiBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed SemiBold";
+}
+);
+}
+);
+weightClass = 600;
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+665
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnBd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "700";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.16786;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.16786;
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.33214;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.33214;
+};
+name = Bold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed Bold";
+}
+);
+}
+);
+weightClass = 700;
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+780
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnXBd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "800";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.08571;
+"ADD71631-DBF8-4123-B9BB-07B2528CE6EF" = 0.08571;
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.41429;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.41429;
+};
+name = ExtraBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed ExtraBold";
+}
+);
+}
+);
+weightClass = 800;
+widthClass = 4;
+},
+{
+axesValues = (
+87.5,
+900
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmCnBlk";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 87.5;
+},
+{
+Axis = Weight;
+Location = "900";
+}
+);
+}
+);
+instanceInterpolations = {
+"C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14" = 0.5;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.5;
+};
+name = Black;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiCondensed";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiCondensed Black";
+}
+);
+}
+);
+weightClass = 900;
+widthClass = 4;
+},
+{
+axesValues = (
 100,
 200
 );
@@ -2116,6 +2583,433 @@ value = Black;
 }
 );
 weightClass = 900;
+},
+{
+axesValues = (
+112.5,
+200
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExXLt";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "200";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.5;
+m01 = 0.5;
+};
+name = ExtraLight;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded ExtraLight";
+}
+);
+}
+);
+weightClass = 200;
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+329
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExLt";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "300";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.40786;
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.09214;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.09214;
+m01 = 0.40786;
+};
+name = Light;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded Light";
+}
+);
+}
+);
+weightClass = 300;
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+438
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExRg";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "400";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.33;
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.17;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.17;
+m01 = 0.33;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = SemiExpanded;
+}
+);
+}
+);
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+534
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExMd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "500";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.26143;
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.23857;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.23857;
+m01 = 0.26143;
+};
+name = Medium;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded Medium";
+}
+);
+}
+);
+weightClass = 500;
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+600
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExSmBd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "600";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.21429;
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.28571;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.28571;
+m01 = 0.21429;
+};
+name = SemiBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded SemiBold";
+}
+);
+}
+);
+weightClass = 600;
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+665
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExBd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "700";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.16786;
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.33214;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.33214;
+m01 = 0.16786;
+};
+name = Bold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded Bold";
+}
+);
+}
+);
+weightClass = 700;
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+780
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExXBd";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "800";
+}
+);
+}
+);
+instanceInterpolations = {
+"0B69FD92-C08A-4234-9918-6776008DFD7A" = 0.08571;
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.41429;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.41429;
+m01 = 0.08571;
+};
+name = ExtraBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded ExtraBold";
+}
+);
+}
+);
+weightClass = 800;
+widthClass = 6;
+},
+{
+axesValues = (
+112.5,
+900
+);
+customParameters = (
+{
+name = postScriptFontName;
+value = "MonaSansMono-SmExBlk";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Width;
+Location = 112.5;
+},
+{
+Axis = Weight;
+Location = "900";
+}
+);
+}
+);
+instanceInterpolations = {
+"BE332802-5D20-4A9D-9B21-C2F1FB0123EF" = 0.5;
+"D9140A3F-79DB-4A50-BC1B-187FE3DD36E2" = 0.5;
+};
+name = Black;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono SemiExpanded";
+}
+);
+},
+{
+key = variableStyleNames;
+values = (
+{
+language = dflt;
+value = "SemiExpanded Black";
+}
+);
+}
+);
+weightClass = 900;
+widthClass = 6;
 },
 {
 axesValues = (
@@ -2665,6 +3559,6 @@ oH = "35";
 };
 };
 };
-versionMajor = 0;
-versionMinor = 55;
+versionMajor = 2;
+versionMinor = 25;
 }

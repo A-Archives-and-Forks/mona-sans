@@ -5,7 +5,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (310,0);
+pos = (430,0);
 },
 {
 name = top;
@@ -51,7 +51,7 @@ nodes = (
 (823,0,l),
 (450,326,l),
 (765,517,l),
-(704,517,l),
+(702,517,l),
 (306,277,l),
 (222,221,l),
 (213,221,l),
@@ -127,7 +127,7 @@ width = 618;
 anchors = (
 {
 name = bottom;
-pos = (312,0);
+pos = (442,0);
 },
 {
 name = top;
@@ -188,7 +188,7 @@ width = 846;
 anchors = (
 {
 name = bottom;
-pos = (310,0);
+pos = (191,0);
 },
 {
 name = top;
@@ -249,7 +249,7 @@ width = 390;
 anchors = (
 {
 name = bottom;
-pos = (312,0);
+pos = (212,0);
 },
 {
 name = top;

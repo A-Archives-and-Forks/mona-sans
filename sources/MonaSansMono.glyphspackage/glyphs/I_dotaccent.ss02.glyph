@@ -9,7 +9,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (-1,57);
+pos = (0,57);
 ref = dotaccentcomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (5,57);
+pos = (0,57);
 ref = dotaccentcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (0,50);
+pos = (2,50);
 ref = dotaccentcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (-7,51);
+pos = (0,51);
 ref = dotaccentcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (-7,57);
+pos = (0,57);
 ref = dotaccentcomb;
 }
 );
@@ -74,12 +74,12 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (-12,51);
+pos = (1,51);
 ref = dotaccentcomb;
 }
 );
 width = 846;
 }
 );
-note = Idotaccent.ss02;
+note = Idotaccent.ss11;
 }

@@ -9,7 +9,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (144,0);
+pos = (-34,0);
 ref = ogonekcomb;
 }
 );
@@ -22,7 +22,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (72,0);
+pos = (-21,0);
 ref = ogonekcomb;
 }
 );
@@ -35,7 +35,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (93,0);
+pos = (18,0);
 ref = ogonekcomb;
 }
 );
@@ -48,7 +48,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (141,0);
+pos = (-17,0);
 ref = ogonekcomb;
 }
 );
@@ -61,7 +61,7 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (177,0);
+pos = (-43,0);
 ref = ogonekcomb;
 }
 );
@@ -74,12 +74,12 @@ shapes = (
 ref = I.ss02;
 },
 {
-pos = (146,0);
+pos = (-16,0);
 ref = ogonekcomb;
 }
 );
 width = 846;
 }
 );
-note = Iogonek.ss02;
+note = Iogonek.ss11;
 }

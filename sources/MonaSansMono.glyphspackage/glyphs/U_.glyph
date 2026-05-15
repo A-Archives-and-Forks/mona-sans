@@ -8,8 +8,16 @@ name = bottom;
 pos = (430,0);
 },
 {
+name = ogonek;
+pos = (630,39);
+},
+{
 name = top;
 pos = (430,729);
+},
+{
+name = topright;
+pos = (731,729);
 }
 );
 hints = (
@@ -68,8 +76,16 @@ name = bottom;
 pos = (309,0);
 },
 {
+name = ogonek;
+pos = (445,37);
+},
+{
 name = top;
 pos = (309,729);
+},
+{
+name = topright;
+pos = (496,729);
 }
 );
 hints = (
@@ -128,8 +144,16 @@ name = bottom;
 pos = (427,0);
 },
 {
+name = ogonek;
+pos = (660,44);
+},
+{
 name = top;
 pos = (427,729);
+},
+{
+name = topright;
+pos = (706,729);
 }
 );
 hints = (
@@ -188,8 +212,16 @@ name = bottom;
 pos = (197,0);
 },
 {
+name = ogonek;
+pos = (289,39);
+},
+{
 name = top;
 pos = (197,729);
+},
+{
+name = topright;
+pos = (307,729);
 }
 );
 hints = (
@@ -248,8 +280,16 @@ name = bottom;
 pos = (194,0);
 },
 {
+name = ogonek;
+pos = (314,39);
+},
+{
 name = top;
 pos = (194,728);
+},
+{
+name = topright;
+pos = (276,729);
 }
 );
 hints = (
@@ -314,8 +354,16 @@ name = bottom;
 pos = (309,0);
 },
 {
+name = ogonek;
+pos = (478,39);
+},
+{
 name = top;
 pos = (309,729);
+},
+{
+name = topright;
+pos = (461,729);
 }
 );
 hints = (
