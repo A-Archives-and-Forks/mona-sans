@@ -8,7 +8,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (-145,0);
+pos = (64,0);
 ref = commaaccentcomb;
 }
 );
@@ -21,7 +21,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (-38,0);
+pos = (73,0);
 ref = commaaccentcomb;
 }
 );
@@ -34,7 +34,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (-135,0);
+pos = (15,0);
 ref = commaaccentcomb;
 }
 );
@@ -60,7 +60,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (77,0);
+pos = (47,0);
 ref = commaaccentcomb;
 }
 );
@@ -73,7 +73,7 @@ shapes = (
 ref = l.ss03;
 },
 {
-pos = (-34,0);
+pos = (56,0);
 ref = commaaccentcomb;
 }
 );

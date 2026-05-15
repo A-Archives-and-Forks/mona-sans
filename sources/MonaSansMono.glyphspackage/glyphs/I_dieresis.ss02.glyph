@@ -29,6 +29,19 @@ ref = dieresiscomb;
 width = 390;
 },
 {
+layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
+shapes = (
+{
+ref = I.ss02;
+},
+{
+pos = (7,50);
+ref = dieresiscomb;
+}
+);
+width = 390;
+},
+{
 layerId = "D9140A3F-79DB-4A50-BC1B-187FE3DD36E2";
 shapes = (
 {
@@ -66,20 +79,7 @@ ref = dieresiscomb;
 }
 );
 width = 846;
-},
-{
-layerId = "C0E55CF7-8DDF-4FD1-ABBE-9F941DF8CA14";
-shapes = (
-{
-ref = I.ss02;
-},
-{
-pos = (7,50);
-ref = dieresiscomb;
 }
 );
-width = 390;
-}
-);
-note = Idieresis.ss02;
+note = Idieresis.ss11;
 }

@@ -82,7 +82,7 @@ pos = (274,517);
 },
 {
 name = topright;
-pos = (305,785);
+pos = (325,785);
 }
 );
 hints = (
@@ -151,7 +151,7 @@ pos = (523,544);
 },
 {
 name = topright;
-pos = (553,739);
+pos = (533,761);
 }
 );
 hints = (
@@ -216,7 +216,7 @@ pos = (53,517);
 },
 {
 name = topright;
-pos = (192,785);
+pos = (212,785);
 }
 );
 hints = (
@@ -285,7 +285,7 @@ pos = (75,544);
 },
 {
 name = topright;
-pos = (255,739);
+pos = (275,729);
 }
 );
 hints = (
