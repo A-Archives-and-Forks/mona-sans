@@ -6,6 +6,10 @@ anchors = (
 {
 name = _top;
 pos = (429,672);
+},
+{
+name = top;
+pos = (423,831);
 }
 );
 hints = (
@@ -67,6 +71,10 @@ anchors = (
 {
 name = _top;
 pos = (309,672);
+},
+{
+name = top;
+pos = (309,822);
 }
 );
 hints = (
@@ -128,6 +136,10 @@ anchors = (
 {
 name = _top;
 pos = (429,678);
+},
+{
+name = top;
+pos = (424,859);
 }
 );
 hints = (
@@ -189,6 +201,10 @@ anchors = (
 {
 name = _top;
 pos = (189,672);
+},
+{
+name = top;
+pos = (196,798);
 }
 );
 hints = (
@@ -250,6 +266,10 @@ anchors = (
 {
 name = _top;
 pos = (189,678);
+},
+{
+name = top;
+pos = (195,851);
 }
 );
 hints = (
@@ -311,6 +331,10 @@ anchors = (
 {
 name = _top;
 pos = (309,678);
+},
+{
+name = top;
+pos = (309,851);
 }
 );
 hints = (

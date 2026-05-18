@@ -1,5 +1,7 @@
 {
 glyphname = adotbelow.ss01.ss05;
+kernLeft = KO_a.ss05;
+kernRight = KO_aacute.ss05;
 layers = (
 {
 layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
