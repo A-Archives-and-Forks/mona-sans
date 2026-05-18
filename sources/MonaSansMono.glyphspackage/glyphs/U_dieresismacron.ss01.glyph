@@ -112,15 +112,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (126,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (133,222);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 449;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -131,15 +131,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (24,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (90,217);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 488;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -150,15 +150,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (227,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (208,237);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 712;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -169,15 +169,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (142,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (177,207);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 722;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -188,15 +188,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (250,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (204,228);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 757;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -207,15 +207,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (150,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (176,213);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 805;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -226,15 +226,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (95,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (65,218);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 363;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -245,15 +245,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (14,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (44,213);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 456;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -264,15 +264,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (227,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (162,227);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 683;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -283,15 +283,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (135,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (124,211);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 689;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -302,15 +302,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (238,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (154,229);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 743;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -321,15 +321,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (134,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (131,211);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 769;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -340,15 +340,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (116,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (127,222);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 382;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -359,15 +359,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (24,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (86,210);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 450;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -378,15 +378,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (227,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (200,227);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 664;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -397,15 +397,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (142,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (180,212);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 664;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -416,15 +416,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (250,57);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (197,231);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 737;
+width = 390;
 },
 {
 associatedMasterId = "ADD71631-DBF8-4123-B9BB-07B2528CE6EF";
@@ -435,15 +435,15 @@ shapes = (
 ref = U;
 },
 {
-pos = (150,51);
+pos = (7,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (175,223);
+pos = (12,233);
 ref = macroncomb;
 }
 );
-width = 763;
+width = 390;
 }
 );
 }

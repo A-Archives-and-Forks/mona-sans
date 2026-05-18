@@ -1346,6 +1346,108 @@ value = "Mona Sans Mono VF";
 type = variable;
 },
 {
+customParameters = (
+{
+name = fileName;
+value = "MonaSansMonoVF[wght]";
+},
+{
+name = "Variable Font Origin";
+value = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+"Expanded ExtraLight",
+"Expanded Black"
+);
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansMonoVF-Condensed[wght]";
+},
+{
+name = "Variable Font Origin";
+value = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+},
+{
+name = "Disable Masters";
+value = (
+ExtraLight,
+Black,
+"Expanded ExtraLight",
+"Expanded Black"
+);
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansMonoVF-Expanded[wght]";
+},
+{
+name = "Variable Font Origin";
+value = "0B69FD92-C08A-4234-9918-6776008DFD7A";
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black
+);
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans Mono VF";
+}
+);
+}
+);
+type = variable;
+},
+{
 axesValues = (
 75,
 200
