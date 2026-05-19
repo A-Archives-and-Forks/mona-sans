@@ -395,6 +395,7 @@ sub Ydotbelow by Ydotbelow.ss01;
 sub Zdotaccent by Zdotaccent.ss01;
 sub abrevedotbelow by abrevedotbelow.ss01;
 sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub adieresis by adieresis.ss01;
 sub adotbelow by adotbelow.ss01;
 sub cdotaccent by cdotaccent.ss01;
 sub ecircumflexdotbelow by ecircumflexdotbelow.ss01;
@@ -546,6 +547,7 @@ sub aring by aring.ss05;
 sub atilde by atilde.ss05;
 sub abrevedotbelow.ss01 by abrevedotbelow.ss01.ss05;
 sub acircumflexdotbelow.ss01 by acircumflexdotbelow.ss01.ss05;
+sub adieresis.ss01 by adieresis.ss01.ss05;
 sub adotbelow.ss01 by adotbelow.ss01.ss05;
 ";
 labels = (
@@ -642,8 +644,7 @@ sub J by J.ss10;
 tag = rlig;
 },
 {
-code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;
-";
+code = "pos @All <14 0 14 0 (opsz:20) 9 0 9 0 (opsz:34) 4 0 4 0 (opsz:42) 17 0 17 0 (opsz:64) -2 0 -2 0 (opsz:100) 0 0 0 0>;";
 tag = kern;
 }
 );
@@ -6186,81 +6187,6 @@ type = variable;
 customParameters = (
 {
 name = fileName;
-value = "MonaSansVF[wdth,wght]";
-},
-{
-name = "Variable Font Origin";
-value = m019;
-},
-{
-name = "Italic Style Linking";
-value = 1;
-},
-{
-name = "Disable Masters";
-value = (
-"Condensed ExtraLight Italic",
-"Condensed Black Italic",
-"ExtraLight Italic",
-"Black Italic",
-"Expanded ExtraLight Italic",
-"Expanded Black Italic",
-"Display Condensed ExtraLight",
-"Display Condensed Black",
-"Display ExtraLight",
-"Display Black",
-"Display Expanded ExtraLight",
-"Display Expanded Black",
-"Display Condensed ExtraLight Italic",
-"Display Condensed Black Italic",
-"Display ExtraLight Italic",
-"Display Black Italic",
-"Display Expanded ExtraLight Italic",
-"Display Expanded Black Italic"
-);
-},
-{
-name = "Replace Feature";
-value = "rlig;	#";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = "Remove Features";
-value = (
-kern
-);
-}
-);
-name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Mona Sans VF";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Mona Sans VF";
-}
-);
-}
-);
-type = variable;
-},
-{
-customParameters = (
-{
-name = fileName;
 value = "MonaSansVF-Italic[wdth,opsz,wght]";
 },
 {
@@ -6287,77 +6213,6 @@ Black,
 {
 name = "Update Features";
 value = 1;
-}
-);
-name = Italic;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Mona Sans VF";
-}
-);
-},
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Mona Sans VF";
-}
-);
-}
-);
-type = variable;
-},
-{
-customParameters = (
-{
-name = fileName;
-value = "MonaSansVF-Italic[wdth,wght]";
-},
-{
-name = "Variable Font Origin";
-value = "095FE76F-1953-440B-9108-AA0678D151F9";
-},
-{
-name = "Disable Masters";
-value = (
-"Condensed ExtraLight",
-"Condensed Black",
-ExtraLight,
-Black,
-"Expanded ExtraLight",
-"Expanded Black",
-"Display Condensed ExtraLight",
-"Display Condensed Black",
-"Display ExtraLight",
-"Display Black",
-"Display Expanded ExtraLight",
-"Display Expanded Black",
-"Display Condensed ExtraLight Italic",
-"Display Condensed Black Italic",
-"Display ExtraLight Italic",
-"Display Black Italic",
-"Display Expanded ExtraLight Italic",
-"Display Expanded Black Italic"
-);
-},
-{
-name = "Replace Feature";
-value = "rlig;	#";
-},
-{
-name = "Update Features";
-value = 1;
-},
-{
-name = "Remove Features";
-value = (
-kern
-);
 }
 );
 name = Italic;
@@ -6491,6 +6346,340 @@ value = 1;
 }
 );
 name = Italic;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Expanded[opsz,wght,ital]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Condensed[opsz,wght,ital]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Expanded ExtraLight",
+"Expanded Black",
+ExtraLight,
+Black,
+"Expanded ExtraLight Italic",
+"Expanded Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic"
+);
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF[wdth,wght]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Expanded ExtraLight Italic",
+"Expanded Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Replace Feature";
+value = "rlig;	#";
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+exports = 0;
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Italic[wdth,wght]";
+},
+{
+name = "Variable Font Origin";
+value = "095FE76F-1953-440B-9108-AA0678D151F9";
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Expanded ExtraLight",
+"Expanded Black",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Replace Feature";
+value = "rlig;	#";
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+exports = 0;
+name = Italic;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+},
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mona Sans VF";
+}
+);
+}
+);
+type = variable;
+},
+{
+customParameters = (
+{
+name = fileName;
+value = "MonaSansVF-Expanded[wght,ital]";
+},
+{
+name = "Variable Font Origin";
+value = m019;
+},
+{
+name = "Italic Style Linking";
+value = 1;
+},
+{
+name = "Disable Masters";
+value = (
+"Condensed ExtraLight",
+"Condensed Black",
+ExtraLight,
+Black,
+"Condensed ExtraLight Italic",
+"Condensed Black Italic",
+"ExtraLight Italic",
+"Black Italic",
+"Display Condensed ExtraLight",
+"Display Condensed Black",
+"Display ExtraLight",
+"Display Black",
+"Display Expanded ExtraLight",
+"Display Expanded Black",
+"Display Condensed ExtraLight Italic",
+"Display Condensed Black Italic",
+"Display ExtraLight Italic",
+"Display Black Italic",
+"Display Expanded ExtraLight Italic",
+"Display Expanded Black Italic"
+);
+},
+{
+name = "Replace Feature";
+value = "rlig;	#";
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
+exports = 0;
+name = Regular;
 properties = (
 {
 key = familyNames;
@@ -376751,5 +376940,5 @@ value = 1.3;
 };
 };
 versionMajor = 2;
-versionMinor = 26;
+versionMinor = 27;
 }

@@ -82,7 +82,7 @@ pos = (144,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (129,216);
+pos = (129,211);
 ref = caroncomb;
 }
 );
@@ -133,7 +133,7 @@ pos = (126,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (142,221);
+pos = (145,218);
 ref = caroncomb;
 }
 );
@@ -150,7 +150,7 @@ pos = (24,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (73,219);
+pos = (73,220);
 ref = caroncomb;
 }
 );
@@ -167,7 +167,7 @@ pos = (227,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (243,237);
+pos = (241,230);
 ref = caroncomb;
 }
 );
@@ -184,7 +184,7 @@ pos = (142,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (151,207);
+pos = (151,210);
 ref = caroncomb;
 }
 );
@@ -320,7 +320,7 @@ pos = (134,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (104,211);
+pos = (104,213);
 ref = caroncomb;
 }
 );

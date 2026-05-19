@@ -14,7 +14,7 @@ tag = wght;
 classes = (
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udieresisacute.ss01 Udieresiscaron.ss01 Udieresisgrave.ss01 Udieresismacron.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Gdotaccent.ss01.ss07";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D Dcaron Dcroat Eth E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I IJ Iacute Ibreve Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcommaaccent L Lacute Lcaron Lcommaaccent Ldot Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Abrevedotbelow.ss01 Acircumflexdotbelow.ss01 Adieresis.ss01 Adotbelow.ss01 Cdotaccent.ss01 Ecircumflexdotbelow.ss01 Edieresis.ss01 Edotaccent.ss01 Edotbelow.ss01 Gdotaccent.ss01 Idieresis.ss01 Idotaccent.ss01 Idotbelow.ss01 Ldot.ss01 Ocircumflexdotbelow.ss01 Odieresis.ss01 Odotbelow.ss01 Ohorndotbelow.ss01 Udieresis.ss01 Udieresisacute.ss01 Udieresiscaron.ss01 Udieresisgrave.ss01 Udieresismacron.ss01 Udotbelow.ss01 Uhorndotbelow.ss01 Wdieresis.ss01 Ydieresis.ss01 Ydotbelow.ss01 Zdotaccent.ss01 I.ss02 Iacute.ss02 Ibreve.ss02 Icircumflex.ss02 Idieresis.ss02 Idotaccent.ss02 Idotbelow.ss02 Igrave.ss02 Ihookabove.ss02 Imacron.ss02 Iogonek.ss02 Itilde.ss02 G.ss07 Gbreve.ss07 Gcaron.ss07 Gcircumflex.ss07 Gcommaaccent.ss07 Gdotaccent.ss07 Idieresis.ss02.ss01 Gdotaccent.ss01.ss07";
 name = Uppercase;
 }
 );
@@ -361,8 +361,10 @@ sub Wdieresis by Wdieresis.ss01;
 sub Ydieresis by Ydieresis.ss01;
 sub Ydotbelow by Ydotbelow.ss01;
 sub Zdotaccent by Zdotaccent.ss01;
+sub Idieresis.ss02 by Idieresis.ss02.ss01;
 sub abrevedotbelow by abrevedotbelow.ss01;
 sub acircumflexdotbelow by acircumflexdotbelow.ss01;
+sub adieresis by adieresis.ss01;
 sub adotbelow by adotbelow.ss01;
 sub cdotaccent by cdotaccent.ss01;
 sub ecircumflexdotbelow by ecircumflexdotbelow.ss01;
@@ -3670,5 +3672,5 @@ oH = "35";
 };
 };
 versionMajor = 2;
-versionMinor = 26;
+versionMinor = 27;
 }
