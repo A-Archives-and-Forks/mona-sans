@@ -65,7 +65,7 @@ pos = (144,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (169,216);
+pos = (169,211);
 ref = gravecomb;
 }
 );
@@ -116,7 +116,7 @@ pos = (126,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (138,221);
+pos = (141,218);
 ref = gravecomb;
 }
 );
@@ -133,7 +133,7 @@ pos = (24,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (84,219);
+pos = (84,220);
 ref = gravecomb;
 }
 );
@@ -150,7 +150,7 @@ pos = (227,57);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (275,237);
+pos = (273,230);
 ref = gravecomb;
 }
 );
@@ -167,7 +167,7 @@ pos = (142,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (189,207);
+pos = (189,210);
 ref = gravecomb;
 }
 );
@@ -303,7 +303,7 @@ pos = (134,51);
 ref = dieresiscomb.ss01;
 },
 {
-pos = (161,211);
+pos = (161,213);
 ref = gravecomb;
 }
 );
